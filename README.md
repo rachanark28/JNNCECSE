@@ -1,2 +1,3 @@
 # JNNCECSE
-This is JNNCECSE deposit
+This is JNNCECSE repo
+Venue: Shimoga
